@@ -1,16 +1,38 @@
-### Hi there 👋
+<h1 align="center"> Olá 👋, meu nome é Karen Vilela!</h1>
+<h3 align="center">Seja bem-vindo(a) ao meu portfólio de Análise de Dados</h3>
 
-<!--
-**karenvilela/karenvilela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 💬 Quem sou eu?
+Uma pessoa que sempre se destacou profissionalmente no domínio de ferramentas como Excel e que, já de posse de uma boa bagagem profissional, decidiu direcionar sua carreira para a Análise de Dados. Aqui estarão disponíveis alguns de meus projetos, criados durante o processo de aprendizagem de novas ferramentas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🎓 Formação Acadêmica
+
+- Bacharelado em Ciências Econômicas - UFRRJ
+- MBA em Gestão Empresarial - FGV
+
+## 💪🏻 Habilidades
+- Excel
+- Power BI
+- VBA
+- SQL 🌱
+
+## 🧑‍💼 Experiência Profissional
+
+- Custos
+- Finanças
+- Controladoria
+- Orçamentos
+
+## 🎯 Principais Interesses
+- Análise de Dados
+- Resolução de Problemas
+
+## 😃 Hobbies e etc, etc, etc...
+- 🎸 violão, guitarra e contrabaixo
+- 🎮 
+- 🐶 Tóia (dauschund)
+
+
+
+
